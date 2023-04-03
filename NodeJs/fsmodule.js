@@ -34,7 +34,7 @@ console.log("this is finished");
  * write file sync
  */
 
-const a = fs.writeFileSync('file3.txt',"this is the only content");
-console.log(a);
+const a1 = fs.writeFileSync('file3.txt',"this is the only content");
+console.log(a1);
 
 console.log("this is finished");
